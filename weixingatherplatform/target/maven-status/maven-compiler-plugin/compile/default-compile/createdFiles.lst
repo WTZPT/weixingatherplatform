@@ -1,0 +1,10 @@
+com\qige\weixingatherplatform\spider\commons\SpendMail.class
+com\qige\weixingatherplatform\spider\config\QuartzConfig.class
+com\qige\weixingatherplatform\spider\WeixinPageCrawler.class
+com\qige\weixingatherplatform\spider\quartz\WeixinJob.class
+com\qige\weixingatherplatform\spider\commons\CrawlerImpl.class
+com\qige\weixingatherplatform\spider\config\WebmagicConfig.class
+com\qige\weixingatherplatform\spider\WeixinCrawler.class
+com\qige\weixingatherplatform\spider\commons\Crawler.class
+com\qige\weixingatherplatform\spider\WeixinLogin.class
+com\qige\weixingatherplatform\WeixingatherplatformApplication.class
